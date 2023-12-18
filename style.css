@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("86233edb2127ab6a9d9eed07661882fd.jpg");
+}
+
+.container {
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: auto;
+}
+.h1 {
+    position: absolute;
+    font-size: 80px;
+    color: rgb(191, 225, 255);
+    left: 250px;
+    text-decoration: underline 4px;
+}
+
+.p1 {
+    position: absolute;
+    font-size: 40px;
+    left: 450px;
+    top: 200px;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid rgb(150, 150, 150);
+    color: rgb(191, 225, 255);
+}
+.p2 {
+    position: absolute;
+    font-size: 40px;
+    left: 600px;
+    top: 300px;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid rgb(150, 150, 150);
+    color: rgb(191, 225, 255);
+}
+
+.p3 {
+    position: absolute;
+    font-size: 40px;
+    left: 500px;
+    top: 400px;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid rgb(150, 150, 150);
+    color: rgb(191, 225, 255);
+}
+
+.p4 {
+    position: absolute;
+    font-size: 40px;
+    left: 550px;
+    top: 750px;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid rgb(150, 150, 150);
+    color: rgb(191, 225, 255);
+}
