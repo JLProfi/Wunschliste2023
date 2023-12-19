@@ -76,3 +76,80 @@ body {
     border: 2px solid rgb(150, 150, 150);
     color: rgb(191, 225, 255);
 }
+
+@media screen  and  (max-width: 700px) {
+    body {
+        background-image: url("0f1f067d60127973da56ac7d038389b1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: rgb(173, 213, 223);
+    }
+    
+    .h1 {
+        position: absolute;
+        font-size: 35px;
+        color: rgb(191, 225, 255);
+        left: 25px;
+        top: 20px;
+        text-decoration: underline 4px;
+    }
+
+    .p1 {
+        position: absolute;
+        font-size: 30px;
+        left: 10px;
+        top: 280px;
+        background-color: rgba(112, 165, 209, 0.158);
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border: 2px solid rgb(150, 150, 150);
+        color: rgb(193, 220, 243);
+    }
+    .p2 {
+        position: absolute;
+        font-size: 30px;
+        left: 5px;
+        top: 180px;
+        background-color: rgba(121, 169, 197, 0.151);
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border: 2px solid rgb(150, 150, 150);
+        color: rgb(158, 163, 236);
+    }
+    
+    .p3 {
+        position: absolute;
+        font-size: 30px;
+        left: 45px;
+        top: 400px;
+        background-color: rgba(187, 165, 247, 0.151);
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 2px solid rgb(150, 150, 150);
+        color: rgb(155, 208, 255);
+    }
+    
+    .p4 {
+        position: absolute;
+        font-size: 30px;
+        left: 10px;
+        top: 550px;
+        background-color: rgba(182, 207, 255, 0.308);
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 40px;
+        padding-right: 40px;
+        border: 2px solid rgb(150, 150, 150);
+        color: rgb(62, 74, 185);
+    }
+}
